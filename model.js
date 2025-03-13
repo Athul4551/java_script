@@ -131,18 +131,84 @@
 
 
 
+// let a=parseInt(prompt("enter the number"))
+// let b=parseInt(prompt("enter the second number"))
+// let i
+// let s=0
+// if(a%2==0)
+//     a=a+1
+// for(i=1;a<=b;i++)
+// {
+// s=s+a
+// a=a+2
+// }
+// console.log("sum of odd =",s);
+
+
+
+
+// let n=parseInt(prompt("enter the number"))
+// let s=0
+// let d=0
+// while(n>0)
+// {
+//     s=n%10
+//     d=d+s
+//     n=n/10
+// }
+// console.log(d)
+
+
+
+//fibinocci-----
+
+// let n=parseInt(prompt("enter the number"))
+// let i=1
+// let s=0
+// let b=1
+// let a=0
+// console.log(a);
+// console.log(b);
+
+// while(i<=n)
+// {
+//     s=a+b
+//     console.log(s)
+//     a=b
+//     b=s
+//     i++
+
+// }
+
+// factorial
+
+// n=parseInt(prompt("enter the number"))
+// f=1
+// let i
+// for(i=1;i<=n;i++)
+// {
+//     f=f*i
+
+// }
+// console.log(f)
+
+
+
+// let sting=prompt("enter the string")
+// let rev=sting.split("").reverse().join("")
+// console.log(rev)
+
+
+
 let a=parseInt(prompt("enter the number"))
 let b=parseInt(prompt("enter the second number"))
 let i
-let s=0
-if(a%2==0)
-    a=a+1
+
 for(i=1;a<=b;i++)
 {
-s=s+a
-a=a+2
+    
 }
-console.log("sum of odd =",s);
+
 
 
 
